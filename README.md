@@ -4,13 +4,7 @@ A **React-based frontend simulation project** demonstrating essential **Operatin
 
 > 💡 Built with **React**, **HTML**, and **CSS** — no backend required.
 
----
 
-## 🚀 Live Demo
-
-[Click here to try it out!](#) <!-- Replace with your deployed URL if hosted -->
-
----
 
 ## 🧩 Features & Simulations
 
@@ -32,23 +26,14 @@ A **React-based frontend simulation project** demonstrating essential **Operatin
 - 📂 **File Table Management**  
   View how file tables track metadata and access within an OS.
 
----
 
-## 📸 Screenshots
-
-> You can add screenshots or gifs here  
-> ```
-> ![Simulation Screenshot](./screenshots/memory-management.png)
-> ```
-
----
 
 ## 🛠️ Tech Stack
 
 - **React.js** – component-based UI rendering
 - **HTML5 & CSS3** – layout and styling
 - **React Hooks** – state and effect management
-- **JavaScript** – interactive logic
+
 
 ---
 
