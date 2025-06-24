@@ -1,4 +1,4 @@
-# 🧠 OS Simulator Suite
+# 🧠Virtual OS lab
 
 A **React-based frontend simulation project** demonstrating essential **Operating System (OS)** concepts through visual and interactive modules. Designed to make learning OS concepts engaging and intuitive, this project includes simulations for memory management, CPU scheduling, inter-process communication, and more.
 
